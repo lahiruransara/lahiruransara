@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Angular and React.
 - 🥅 2022 Goals: Gaining more and more Industrial Experience.
 - 📫 How to reach me: [lahiruransara](https://www.linkedin.com/in/lahiruransara/)
-- 🎨 Protfolio: [Behance](https://www.behance.net/lahiruR) | [Dribbble](https://dribbble.com/lahiruR)
+- 🎨 Portfolio: [Behance](https://www.behance.net/lahiruR) | [Dribbble](https://dribbble.com/lahiruR)
 - ⚡ Fun fact: I love listening to music while working.
 
 <!-- ### Languages :
