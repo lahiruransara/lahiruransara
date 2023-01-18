@@ -4,7 +4,7 @@
   <a><img src="https://readme-typing-svg.herokuapp.com/?lines=UI/UX+Engineer;Always+Learning+New+Things!;Open+for+Freelancing+Projects&font=Fira%20Code&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<img align="right" alt="GIF" src="./assets/designer.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="./assets/designer.gif" width="400" height="400" />
 
 ### I'm a UI/UX Engineer and a Technology Enthusiast!
 
