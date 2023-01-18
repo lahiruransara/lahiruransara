@@ -38,4 +38,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandimaHerath&layout=compact) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruransara)-->
 
-![ThanksYou](https://img.shields.io/badge/Happy_Coding;-dodgerred.svg?style=for-the-badge)
+<!-- ![ThanksYou](https://img.shields.io/badge/Happy_Coding;-dodgerred.svg?style=for-the-badge) -->
