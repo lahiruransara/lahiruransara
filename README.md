@@ -10,7 +10,7 @@
 
 ### I'm a UI/UX Engineer and a Technology Enthusiast!
 
-- 🔭 I’m currently working as an Associate UI/UX Engineer in Random Software Ltd.
+- 🔭 I’m currently working as an Associate UI/UX Engineer at Random Software Ltd.
 - 🌱 I’m currently learning Angular and React.
 - 🥅 2023 Goals: Gaining more and more Industrial Experience.
 - 📫 How to reach me: [lahiruransara](https://www.linkedin.com/in/lahiruransara/)
